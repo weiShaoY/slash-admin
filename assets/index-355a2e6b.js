@@ -1,1 +1,0 @@
-import{j as e,T as n}from"./index-f7e160de.js";function r(){return e.jsx(n.Title,{children:"Menu Level: 2a"})}export{r as default};
