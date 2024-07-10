@@ -1,1 +1,0 @@
-import{j as r,g as s}from"./index-6f423a5f.js";import o from"./index-d66bc07f.js";import e from"./index-ffcf7a53.js";import"./row-ee907431.js";function l(){const l=[{key:"scrollbar",label:"Scrollbar",children:r.jsx(o,{})},{key:"scroll-progress",label:"ScrollProgress",children:r.jsx(e,{})}];return r.jsx(s,{items:l})}export{l as default};
