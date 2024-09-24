@@ -1,1 +1,0 @@
-import{dm as n,r as s,j as r,dn as e}from"./index-96b81d1a.js";import{C as i}from"./index-ba213dc1.js";const o=e;function t(){const{id:e}=function(){const r=n();return s.useMemo((()=>r),[r])}(),t=o.find((n=>n.id===e));return r.jsx(i,{children:r.jsxs("p",{children:["这是用户",t?.username,"的详情页面"]})})}export{t as default};
